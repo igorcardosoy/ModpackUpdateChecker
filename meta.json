@@ -2,6 +2,14 @@
   "schemaVersion": 1,
   "hotfixesFormat": null,
   "versions": [
- 
+    {
+      "id": "2.0.1",
+      "releasedAt": 1712631600000,
+      "promotions": {
+          "downloads": {
+              "modrinth": "https://cdn.modrinth.com/data/Z7xy5DS6/versions/1ujcf1Kk/Bicocraft.mrpack"
+          }
+      }
+  }
   ]
 }

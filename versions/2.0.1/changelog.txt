@@ -1,0 +1,28 @@
+## Changelog:
+
+Old versions have been removed for security reasons.
+
+### Update:
+
+- [Complementary Shaders](https://modrinth.com/shader/complementary-unbound)
+ from 5.0.1 to 5.1.1
+
+### Additions:
+  
+- [Visual Overhaul](https://modrinth.com/mod/visual-overhaul/gallery)
+- [Euphoria Patches](https://modrinth.com/mod/euphoria-patches)
+- [VulkanMod](https://modrinth.com/mod/vulkanmod)
+- [Clean Tooltips](https://modrinth.com/mod/clean-tooltips/gallery)
+- [Screenshot Viewer](https://modrinth.com/mod/screenshot-viewer)
+- [Continue Button](https://modrinth.com/mod/continue)
+- [Mod Loading Screen](https://modrinth.com/mod/mod-loading-screen/gallery)
+- [Serious Player Animations](https://modrinth.com/mod/serious-player-animations/gallery)
+- [Update ME!](https://modrinth.com/mod/update-me/gallery)
+- [Smooth Gui](https://modrinth.com/mod/smooth-gui/gallery)
+- [Map In Slot](https://modrinth.com/mod/map-in-slot)
+- [Faded Widgets](https://modrinth.com/mod/faded-widgets/gallery)
+- [Fancy Block Particles - Renewed](https://modrinth.com/mod/fbp-renewed)
+- [Resclone](https://modrinth.com/mod/resclone)
+- [LibJF](https://modrinth.com/mod/libjf)
+- [playerAnimator](https://modrinth.com/mod/playeranimator)
+- [Custom Window Title](https://modrinth.com/mod/custom-window-title)
