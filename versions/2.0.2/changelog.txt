@@ -1,0 +1,16 @@
+## Changelog:
+
+Update and add mods to the modpack. Just personalizing the modpack.
+
+### Update:
+
+- [Mod Menu](https://modrinth.com/mod/modmenu)
+- [Polytone](https://modrinth.com/mod/polytone)
+
+### Additions:
+
+- [Melody](https://modrinth.com/mod/melody)
+- [Konkrete](https://modrinth.com/mod/konkrete)
+- [FancyMenu](https://modrinth.com/mod/fancymenu)
+- [MidnightLib](https://modrinth.com/mod/midnightlib)
+- [Modpack Update Checker](https://modrinth.com/mod/modpack-update-checker)

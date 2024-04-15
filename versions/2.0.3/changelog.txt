@@ -1,0 +1,7 @@
+## Changelog:
+
+Updating mod. 
+
+### Update:
+
+- [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)
