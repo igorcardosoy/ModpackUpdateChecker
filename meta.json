@@ -10,6 +10,24 @@
               "modrinth": "https://cdn.modrinth.com/data/Z7xy5DS6/versions/1ujcf1Kk/Bicocraft.mrpack"
           }
       }
-  }
+    },
+    {
+        "id": "2.0.2",
+        "releasedAt": 1712631600000,
+        "promotions": {
+            "downloads": {
+                "modrinth": "https://cdn.modrinth.com/data/Z7xy5DS6/versions/AhDt73l8/Bicocraft.mrpack"
+            }
+        }
+    },
+    {
+        "id": "2.0.3",
+        "releasedAt": 1712631600000,
+        "promotions": {
+            "downloads": {
+                "modrinth": "https://cdn.modrinth.com/data/Z7xy5DS6/versions/XANpUlQ1/Bicocraft.mrpack"
+            }
+        }
+    }
   ]
 }
